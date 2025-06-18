@@ -512,6 +512,37 @@ body {
     line-height: 1.6;
   }
 
+   .parceria-mm7 {
+    padding: 4rem 1rem;
+    background: linear-gradient(135deg, #63cfdd, #5692c7);
+    text-align: center;
+    border-top: 2px solid #b3e5fc;
+    border-bottom: 2px solid #b3e5fc;
+    cursor: pointer;
+  }
+
+  .parceria-mm7 .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .parceria-mm7 h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    color: rgb(1, 12, 77);
+    margin-bottom: 1rem;
+  }
+
+  .parceria-mm7 p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    color: black;
+    max-width: 800px;
+    margin: 0 auto 1.5rem;
+    line-height: 1.6;
+  }
+
   .beneficios-parceria {
     list-style: none;
     padding: 0;
